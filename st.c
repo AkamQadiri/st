@@ -1958,6 +1958,7 @@ strhandle(void)
 		return;
 	}
 
+	return;
 	fprintf(stderr, "erresc: unknown str ");
 	strdump();
 }
