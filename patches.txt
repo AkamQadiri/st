@@ -1,0 +1,4 @@
+st-alpha-osc11-20220222-0.8.5.diff
+st-anysize-20220718-baa9357.diff
+st-boxdraw_v2-0.8.5.diff
+st-ligatures-boxdraw-20210824-0.8.4.diff
